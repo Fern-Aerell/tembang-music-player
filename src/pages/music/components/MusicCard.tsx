@@ -13,7 +13,7 @@ export default function MusicCard({id, image, name, artist}: MusicCardProps) {
         <Link href={`/music/${id}`} className="flex flex-row gap-3 bg-[#414141] hover:bg-[#4e4e4e] p-3 rounded-md w-[300px]">
             {
                 image ?
-                <Image src={`${process.env.baseUrl}/${image}`} width={48} height={48} className='rounded-md' alt='gambar lagu' />
+                <Image src={`${process.env.baseUrl}/music/${image}`} width={48} height={48} className='rounded-md' alt='gambar lagu' />
                 :
                 <div className="bg-white h-[48px] w-[48px] rounded-md"></div>
             }

@@ -15,7 +15,7 @@ export default function MusicLibrary({className, data}: MusicLibraryProps) {
                 {
                     data ? 
                     data.map((data, index) => {
-                        return <MusicCard id={data.id} key={index} name={data.name} artist={data.artist} />
+                        return <MusicCard id={data.id} key={index} image={data.image} name={data.name} artist={data.artist} />
                     })
                     :
                     <h1 className="opacity-50">Sorry, No music can be played...</h1>

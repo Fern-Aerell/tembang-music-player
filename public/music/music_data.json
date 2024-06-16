@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "image": "",
+        "image": "batas_senja_nanti_kita_seperti_ini.image.webp",
         "name": "Nanti Kita Seperti Ini",
         "artist": "Batas Senja",
         "lyrics": "batas_senja_nanti_kita_seperti_ini.lyrics.json",
@@ -9,7 +9,7 @@
     },
     {
         "id": 2,
-        "image": "",
+        "image": "ghea_indrawari_jiwa_yang_bersedih.image.webp",
         "name": "Jiwa Yang Bersedih",
         "artist": "Ghea Indrawari",
         "lyrics": "ghea_indrawari_jiwa_yang_bersedih.lyrics.json",
@@ -17,7 +17,7 @@
     },
     {
         "id": 3,
-        "image": "",
+        "image": "ghea_indrawari_masa_mudaku_habis.image.webp",
         "name": "Masa Mudaku Habis",
         "artist": "Ghea Indrawari",
         "lyrics": "ghea_indrawari_masa_mudaku_habis.lyrics.json",
@@ -25,7 +25,7 @@
     },
     {
         "id": 4,
-        "image": "",
+        "image": "ghea_indrawari_teramini_berdamai.image.webp",
         "name": "Teramini Berdamai",
         "artist": "Ghea Indrawari",
         "lyrics": "ghea_indrawari_teramini_berdamai.lyrics.json",
@@ -33,7 +33,7 @@
     },
     {
         "id": 5,
-        "image": "",
+        "image": "sal_priadi_dari_planet_lain.image.webp",
         "name": "Dari Planet Lain",
         "artist": "Sal Priadi",
         "lyrics": "sal_priadi_dari_planet_lain.lyrics.json",
@@ -41,7 +41,7 @@
     },
     {
         "id": 6,
-        "image": "",
+        "image": "tommy_j_pisa_disini_dibatas_kota_ini.image.webp",
         "name": "Disini Dibatas Kota Ini",
         "artist": "Tommy J Pisa",
         "lyrics": "tommy_j_pisa_disini_dibatas_kota_ini.lyrics.json",
@@ -49,7 +49,7 @@
     },
     {
         "id": 7,
-        "image": "",
+        "image": "young_lex.image.webp",
         "name": "Bangsatlah Sama Lo Semua",
         "artist": "Young Lex",
         "lyrics": "young_lex_bangsatlah_sama_lo_semua.lyrics.json",
@@ -57,7 +57,7 @@
     },
     {
         "id": 8,
-        "image": "",
+        "image": "young_lex.image.webp",
         "name": "Senyumin Aja",
         "artist": "Young Lex",
         "lyrics": "young_lex_senyumin_aja.lyrics.json",

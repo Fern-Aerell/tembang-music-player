@@ -38,7 +38,7 @@ export default function MusicPlayer({ className, music, volume, volumeChange, mu
             }>
                 {
                     music && music.image.length > 0 ?
-                    <Image src={music.image} width={48} height={48} className='rounded-md' alt='gambar lagu' />
+                    <Image src={`${process.env.baseUrl}/music/${music.image}`} width={48} height={48} className='rounded-md' alt='gambar lagu' />
                     :
                     <div className="bg-white h-[48px] w-[48px] rounded-md flex-shrink-0"></div>
                 }
