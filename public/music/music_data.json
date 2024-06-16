@@ -12,7 +12,7 @@
         "image": "",
         "name": "Jiwa Yang Bersedih",
         "artist": "Ghea Indrawari",
-        "lyrics": "no.lyrics.json",
+        "lyrics": "ghea_indrawari_jiwa_yang_bersedih.lyrics.json",
         "file": "ghea_indrawari_jiwa_yang_bersedih.mp3"
     },
     {
@@ -20,7 +20,7 @@
         "image": "",
         "name": "Masa Mudaku Habis",
         "artist": "Ghea Indrawari",
-        "lyrics": "no.lyrics.json",
+        "lyrics": "ghea_indrawari_masa_mudaku_habis.lyrics.json",
         "file": "ghea_indrawari_masa_mudaku_habis.mp3"
     },
     {
@@ -28,7 +28,7 @@
         "image": "",
         "name": "Teramini Berdamai",
         "artist": "Ghea Indrawari",
-        "lyrics": "no.lyrics.json",
+        "lyrics": "ghea_indrawari_teramini_berdamai.lyrics.json",
         "file": "ghea_indrawari_teramini_berdamai.mp3"
     },
     {
@@ -36,7 +36,7 @@
         "image": "",
         "name": "Dari Planet Lain",
         "artist": "Sal Priadi",
-        "lyrics": "no.lyrics.json",
+        "lyrics": "sal_priadi_dari_planet_lain.lyrics.json",
         "file": "sal_priadi_dari_planet_lain.mp3"
     },
     {
@@ -44,7 +44,7 @@
         "image": "",
         "name": "Disini Dibatas Kota Ini",
         "artist": "Tommy J Pisa",
-        "lyrics": "no.lyrics.json",
+        "lyrics": "tommy_j_pisa_disini_dibatas_kota_ini.lyrics.json",
         "file": "tommy_j_pisa_disini_dibatas_kota_ini.mp3"
     },
     {
@@ -52,7 +52,7 @@
         "image": "",
         "name": "Bangsatlah Sama Lo Semua",
         "artist": "Young Lex",
-        "lyrics": "no.lyrics.json",
+        "lyrics": "young_lex_bangsatlah_sama_lo_semua.lyrics.json",
         "file": "young_lex_bangsatlah_sama_lo_semua.mp3"
     },
     {
@@ -60,7 +60,7 @@
         "image": "",
         "name": "Senyumin Aja",
         "artist": "Young Lex",
-        "lyrics": "no.lyrics.json",
+        "lyrics": "young_lex_senyumin_aja.lyrics.json",
         "file": "young_lex_senyumin_aja.webm"
     }
 ]

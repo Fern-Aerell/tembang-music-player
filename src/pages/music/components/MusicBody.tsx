@@ -112,7 +112,7 @@ export default function MusicBody({ id }: MusicBodyProps) {
         if (howl == undefined) return;
         howl.volume(musicVol);
 
-    }, [musicVol]);
+    }, [musicVol, howl]);
 
     useEffect(() => {
 
