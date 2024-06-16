@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "image": "",
+        "name": "Nanti Kita Seperti Ini",
+        "artist": "Batas Senja",
+        "lyrics": "batas_senja_nanti_kita_seperti_ini.lyrics.json",
+        "file": "batas_senja_nanti_kita_seperti_ini.mp3"
+    },
+    {
+        "id": 2,
+        "image": "",
+        "name": "Jiwa Yang Bersedih",
+        "artist": "Ghea Indrawari",
+        "lyrics": "no.lyrics.json",
+        "file": "ghea_indrawari_jiwa_yang_bersedih.mp3"
+    },
+    {
+        "id": 3,
+        "image": "",
+        "name": "Masa Mudaku Habis",
+        "artist": "Ghea Indrawari",
+        "lyrics": "no.lyrics.json",
+        "file": "ghea_indrawari_masa_mudaku_habis.mp3"
+    },
+    {
+        "id": 4,
+        "image": "",
+        "name": "Teramini Berdamai",
+        "artist": "Ghea Indrawari",
+        "lyrics": "no.lyrics.json",
+        "file": "ghea_indrawari_teramini_berdamai.mp3"
+    },
+    {
+        "id": 5,
+        "image": "",
+        "name": "Dari Planet Lain",
+        "artist": "Sal Priadi",
+        "lyrics": "no.lyrics.json",
+        "file": "sal_priadi_dari_planet_lain.mp3"
+    },
+    {
+        "id": 6,
+        "image": "",
+        "name": "Disini Dibatas Kota Ini",
+        "artist": "Tommy J Pisa",
+        "lyrics": "no.lyrics.json",
+        "file": "tommy_j_pisa_disini_dibatas_kota_ini.mp3"
+    },
+    {
+        "id": 7,
+        "image": "",
+        "name": "Bangsatlah Sama Lo Semua",
+        "artist": "Young Lex",
+        "lyrics": "no.lyrics.json",
+        "file": "young_lex_bangsatlah_sama_lo_semua.mp3"
+    },
+    {
+        "id": 8,
+        "image": "",
+        "name": "Senyumin Aja",
+        "artist": "Young Lex",
+        "lyrics": "no.lyrics.json",
+        "file": "young_lex_senyumin_aja.webm"
+    }
+]
