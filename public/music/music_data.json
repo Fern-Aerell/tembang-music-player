@@ -62,5 +62,13 @@
         "artist": "Young Lex",
         "lyrics": "young_lex_senyumin_aja.lyrics.json",
         "file": "young_lex_senyumin_aja.webm"
+    },
+    {
+        "id": 9,
+        "image": "zigaz_sahabat_jadi_cinta.image.webp",
+        "name": "Sahabat Jadi Cinta",
+        "artist": "Zigaz",
+        "lyrics": "zigaz_sahabat_jadi_cinta.lyrics.json",
+        "file": "zigaz_sahabat_jadi_cinta.mp3"
     }
 ]
