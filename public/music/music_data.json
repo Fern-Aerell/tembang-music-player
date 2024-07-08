@@ -70,5 +70,85 @@
         "artist": "Zigaz",
         "lyrics": "zigaz_sahabat_jadi_cinta.lyrics.json",
         "file": "zigaz_sahabat_jadi_cinta.mp3"
-    }
+    },
+    {
+        "id": 10,
+        "image": "hindia_rumah_ke_rumah.image.webp",
+        "name": "Rumah Ke Rumah",
+        "artist": "Hindia",
+        "lyrics": "hindia_rumah_ke_rumah.lyrics.json",
+        "file": "hindia_rumah_ke_rumah.mp3"
+    },
+    {
+        "id": 11,
+        "image": "kangen_band_terbang_bersamaku.image.webp",
+        "name": "Terbang Bersamaku",
+        "artist": "Kangen Band",
+        "lyrics": "kangen_band_terbang_bersamaku.lyrics.json",
+        "file": "kangen_band_terbang_bersamaku.mp3"
+    },
+    {
+        "id": 12,
+        "image": "",
+        "name": "Bintang 14 Hari",
+        "artist": "Kangen Band",
+        "lyrics": "kangen_band_bintang_14_hari.lyrics.json",
+        "file": "kangen_band_bintang_14_hari.mp3"
+    },
+    {
+        "id": 13,
+        "image": "",
+        "name": "Cinta Yang Sempurna",
+        "artist": "Kangen Band",
+        "lyrics": "kangen_band_cinta_yang_sempurna.lyrics.json",
+        "file": "kangen_band_cinta_yang_sempurna.mp3"
+    },
+    {
+        "id": 14,
+        "image": "",
+        "name": "Doy",
+        "artist": "Kangen Band",
+        "lyrics": "kangen_band_doy.lyrics.json",
+        "file": "kangen_band_doy.mp3"
+    },
+    {
+        "id": 15,
+        "image": "",
+        "name": "Jangan Bertengkar Lagi",
+        "artist": "Kangen Band",
+        "lyrics": "kangen_band_jangan_bertengkar_lagi.lyrics.json",
+        "file": "kangen_band_jangan_bertengkar_lagi.mp3"
+    },
+    {
+        "id": 16,
+        "image": "",
+        "name": "Kembali Pulang",
+        "artist": "Kangen Band",
+        "lyrics": "kangen_band_kembali_pulang.lyrics.json",
+        "file": "kangen_band_kembali_pulang.mp3"
+    },
+    {
+        "id": 17,
+        "image": "",
+        "name": "Pujaan Hati",
+        "artist": "Kangen Band",
+        "lyrics": "kangen_band_pujaan_hati.lyrics.json",
+        "file": "kangen_band_pujaan_hati.mp3"
+    },
+    {
+        "id": 18,
+        "image": "",
+        "name": "Tentang Aku Kau Dan Dia",
+        "artist": "Kangen Band",
+        "lyrics": "kangen_band_tentang_aku_kau_dan_dia.lyrics.json",
+        "file": "kangen_band_tentang_aku_kau_dan_dia.mp3"
+    },
+    {
+        "id": 19,
+        "image": "",
+        "name": "Yolanda",
+        "artist": "Kangen Band",
+        "lyrics": "kangen_band_yolanda.lyrics.json",
+        "file": "kangen_band_yolanda.mp3"
+    } 
 ]
